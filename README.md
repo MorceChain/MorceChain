@@ -1,16 +1,21 @@
-### Hi there 👋
+### MorceChain
 
-<!--
-**MorceChain/MorceChain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### linux
+  If you use a linux node, you can download the files in the linux directory and download linux-dependency.zip to the /usr/lib directory.<br>
+>>Start node：<br>
+morcechaind MORCE<br>
+rpc command call：<br>
+>>morcechain-cli MORCE help
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### windows
+  If you use windows node, please download the files in the win directory.<br>
+>>Start node：<br>
+   morcechaind.exe MORCE<br>
+  rpc command call：<br>
+>>morcechain-cli.exe MORCE help
+#### mac
+  If you use mac node, please download the files in the mac directory.<br>
+>>Start node：<br>
+    morcechaind MORCE<br>
+  rpc command call：<br>
+>>morcechain-cli MORCE help
