@@ -1,7 +1,7 @@
 ### MorceChain
 
 #### linux
-  If you use a linux node, you can download the files in the linux directory and download linux-dependency.zip to the /usr/lib directory.<br>
+  If you use a linux node, you can download the files in the linux directory, and download and unzip the linux-dependency.zip to the /usr/lib directory.<br>
 >>Start node：<br>
 morcechaind MORCE<br>
 rpc command call：<br>
